@@ -1,0 +1,5 @@
+# Graphical Playground — robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://graphical-playground.com/sitemap.xml
